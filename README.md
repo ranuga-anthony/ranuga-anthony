@@ -26,4 +26,3 @@ Here is a live visualization of the languages and tools running across my reposi
     </td>
   </tr>
 </table>
-
