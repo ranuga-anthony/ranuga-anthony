@@ -16,6 +16,8 @@ You can click the Preview link to take a look at your changes.
 
 Here is a live visualization of the languages and tools running across my repositories:
 
-<!-- github-readme-stats pin -->
-<!-- github-readme-stats pin -->
+<p align="center">
+  <img src="https://metrics.lecoq.io" width="48%" alt="GitHub Stats" />
+  <img src="https://metrics.lecoq.io" width="48%" alt="Top Languages" />
+</p>
 
