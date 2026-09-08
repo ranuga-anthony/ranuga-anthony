@@ -11,3 +11,18 @@
 ranuga-anthony/ranuga-anthony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## 📊 Analytics & Technology Stack
+
+Here is a live visualization of the languages and tools running across my repositories:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://vercel.app" alt="Ranuga's Top Languages" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://vercel.app" alt="Ranuga's GitHub Stats" />
+    </td>
+  </tr>
+</table>
