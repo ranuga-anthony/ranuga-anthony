@@ -19,10 +19,10 @@ Here is a live visualization of the languages and tools running across my reposi
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://vercel.app" alt="Ranuga's Top Languages" />
+      <img src="https://github-readme-stats.vercel.app" alt="Ranuga's Top Languages" />
     </td>
     <td width="50%" valign="top">
-      <img src="https://vercel.app" alt="Ranuga's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app" alt="Ranuga's GitHub Stats" />
     </td>
   </tr>
 </table>
